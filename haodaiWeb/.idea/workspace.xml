@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29b9cdd4-7e0b-4cae-923c-733edc68164d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="haodai@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="haodai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="haodai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="haodai: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="haodai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="haodai: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="details: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="haodai@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="haodai: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="pros: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haodaiWeb/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="e#643#675#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/templates/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17886">
+              <caret line="542" column="30" selection-start-line="542" selection-start-column="30" selection-end-line="542" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haodaiWeb/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="957">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/Public/</find>
+      <find>ma_nr</find>
+      <find>../../src/</find>
+      <find>heater_left</find>
+      <find>tanchu</find>
+      <find>nian</find>
+      <find>JGPageTimeBlu</find>
+      <find>JGPageFoc</find>
+      <find>jgpage</find>
+      <find>cptab</find>
+      <find>cpb</find>
+      <find>/src/</find>
+      <find>&quot;/src/</find>
+      <find>icon</find>
+      <find>&quot;/public/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>http://www.haodai.com/Public/</replace>
+      <replace>http://www.haodai.com/src/</replace>
+      <replace>&quot;http://www.haodai.com/src/</replace>
+      <replace>&quot;http://www.haodai.com/public/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/haodaiWeb/settings.py" />
+        <option value="$PROJECT_DIR$/web/templates/lists.html" />
+        <option value="$PROJECT_DIR$/haodaiWeb/urls.py" />
+        <option value="$PROJECT_DIR$/web/models.py" />
+        <option value="$PROJECT_DIR$/web/views.py" />
+        <option value="$PROJECT_DIR$/web/templates/detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="haodaiWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haodaiWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="haodaiWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haodaiWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="haodaiWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="haodaiWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haodaiWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="haodaiWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="haodaiWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="haodaiWeb" type="Python.DjangoServer" factoryName="Django server">
+      <module name="haodaiWeb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29b9cdd4-7e0b-4cae-923c-733edc68164d" name="Default" comment="" />
+      <created>1526709022661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526709022661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="manage.py@haodaiWeb" order="7" visible="true" weight="0.40519187" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.61625284" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.259009" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.2545045" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.34198645" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/haodaiWeb/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#643#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1221">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://27c74cb9-f984-4194-b01f-216d327062cd/schema/haodai/table/pros">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="cid = '1023' and time='12' and money='30'" />
+            <filter text="cid = '1023' and time='12' and money=30" />
+            <filter text="cid = '1023'" />
+            <filter text="id = '1023'" />
+            <filter text="product_url='http://tianjin.haodai.com/xiaofei/1023x20x24.html'" />
+            <filter text="url_loc='tianjin' and money='20'and time='24'" />
+            <filter text="url_loc='tianjin' and money='20'and time='24'and product_url='http://tianjin.haodai.com/xiaofei/1023x20x24.html'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17886">
+          <caret line="542" column="30" selection-start-line="542" selection-start-column="30" selection-end-line="542" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haodaiWeb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://27c74cb9-f984-4194-b01f-216d327062cd/schema/haodai/table/details">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="id = '15220'" />
+            <filter text="id = '1023' and deadline='12月' and money = '30万元'" />
+            <filter text="id = '1023'" />
+            <filter text="id='1023' and money='20万元' and deadline='24月'" />
+            <filter text="id='1023'" />
+            <filter text="id='1023' and deadline='24'" />
+            <filter text="id='1023' and money='20'and deadline='24'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haodaiWeb/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="931" column="34" lean-forward="true" selection-start-line="931" selection-start-column="34" selection-end-line="931" selection-end-column="34" />
+          <folding>
+            <element signature="e#23645#23669#0#HTML" expanded="true" />
+            <element signature="e#30179#30217#0#HTML" expanded="true" />
+            <element signature="e#39166#39191#0#HTML" expanded="true" />
+            <element signature="e#40001#40023#0#HTML" expanded="true" />
+            <element signature="e#40279#40304#0#HTML" expanded="true" />
+            <element signature="e#41183#41208#0#HTML" expanded="true" />
+            <element signature="e#42138#42224#0#HTML" expanded="true" />
+            <element signature="e#42368#42454#0#HTML" expanded="true" />
+            <element signature="e#46377#46397#0#HTML" expanded="true" />
+            <element signature="e#47121#47143#0#HTML" expanded="true" />
+            <element signature="e#47784#47821#0#HTML" expanded="true" />
+            <element signature="e#48042#48063#0#HTML" expanded="true" />
+            <element signature="e#48570#48591#0#HTML" expanded="true" />
+            <element signature="e#48909#48930#0#HTML" expanded="true" />
+            <element signature="e#50905#50911#0#HTML" expanded="true" />
+            <element signature="e#50980#50986#0#HTML" expanded="true" />
+            <element signature="e#50987#50993#0#HTML" expanded="true" />
+            <element signature="e#51000#51006#1#HTML" expanded="true" />
+            <element signature="e#51105#51111#0#HTML" expanded="true" />
+            <element signature="e#51112#51118#0#HTML" expanded="true" />
+            <element signature="e#52563#52569#0#HTML" expanded="true" />
+            <element signature="e#52590#52596#0#HTML" expanded="true" />
+            <element signature="e#52597#52603#0#HTML" expanded="true" />
+            <element signature="e#52610#52616#1#HTML" expanded="true" />
+            <element signature="e#52691#52697#0#HTML" expanded="true" />
+            <element signature="e#52698#52704#0#HTML" expanded="true" />
+            <element signature="e#52708#52714#1#HTML" expanded="true" />
+            <element signature="e#52789#52795#0#HTML" expanded="true" />
+            <element signature="e#52796#52802#0#HTML" expanded="true" />
+            <element signature="e#52806#52812#1#HTML" expanded="true" />
+            <element signature="e#52887#52893#0#HTML" expanded="true" />
+            <element signature="e#52894#52900#0#HTML" expanded="true" />
+            <element signature="e#52904#52910#1#HTML" expanded="true" />
+            <element signature="e#52985#52991#0#HTML" expanded="true" />
+            <element signature="e#52992#52998#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17886">
+          <caret line="542" column="30" selection-start-line="542" selection-start-column="30" selection-end-line="542" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haodaiWeb/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#643#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://27c74cb9-f984-4194-b01f-216d327062cd/schema/haodai/table/pros">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="cid = '1023' and time='12' and money='30'" />
+            <filter text="cid = '1023' and time='12' and money=30" />
+            <filter text="cid = '1023'" />
+            <filter text="id = '1023'" />
+            <filter text="product_url='http://tianjin.haodai.com/xiaofei/1023x20x24.html'" />
+            <filter text="url_loc='tianjin' and money='20'and time='24'" />
+            <filter text="url_loc='tianjin' and money='20'and time='24'and product_url='http://tianjin.haodai.com/xiaofei/1023x20x24.html'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://27c74cb9-f984-4194-b01f-216d327062cd/schema/haodai/table/details">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="id = '15220'" />
+            <filter text="id = '1023' and deadline='12月' and money = '30万元'" />
+            <filter text="id = '1023'" />
+            <filter text="id='1023' and money='20万元' and deadline='24月'" />
+            <filter text="id='1023'" />
+            <filter text="id='1023' and deadline='24'" />
+            <filter text="id='1023' and money='20'and deadline='24'" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
